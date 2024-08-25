@@ -26,4 +26,4 @@ Este es el código fuente de Guitarla, desarrollado con React.js. una tienda que
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/jhonatancarreazo/guitarla.git
